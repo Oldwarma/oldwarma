@@ -118,7 +118,7 @@ Deployment and DevOps: Capable of setting up deployment pipelines, containerizin
                  
        
                                  
-![snake gif](https://github.com/linxin/linxin/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!--
