@@ -1,7 +1,7 @@
 
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=BACKEND +DEVELOPER;TECHNICAL+WRITER)](https://git.io/typing-svg)
+
  <!--  -->
 
 
